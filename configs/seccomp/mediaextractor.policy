@@ -1,0 +1,3 @@
+statfs64: 1
+statfs: 1
+gettimeofday: 1
